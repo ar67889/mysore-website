@@ -1,0 +1,16 @@
+.nav-link {
+    font-size: larger;
+}
+
+.header {
+    font-size: medium;
+}
+
+body {
+    font-family: 'Catamaran', sans-serif;
+}
+
+#logo {
+    position: relative;
+    right: 20px;
+}

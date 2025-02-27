@@ -1,0 +1,36 @@
+body {
+    font-family: 'Catamaran', sans-serif;
+}
+
+.nav-link {
+    font-size: larger;
+}
+
+.header {
+    font-size: medium;
+}
+
+#footer_image {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#hero_text {
+    font-family: 'Handlee', cursive;
+    font-size: 100;
+    position: relative;
+    bottom: 275px;
+    right: 15px;
+}
+
+#hero_sub {
+    font-family: 'Kalam', cursive;
+    position: relative;
+    bottom: 310px;
+    left: 180px;
+}
+
+#logo {
+    position: relative;
+    right: 20px;
+}

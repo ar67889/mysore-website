@@ -1,0 +1,15 @@
+body {
+    font-family: 'Catamaran', sans-serif;
+}
+
+#home {
+    padding-top: 25px;
+}
+
+.nav-link {
+    font-size: larger;
+}
+
+.header {
+    font-size: medium;
+}
